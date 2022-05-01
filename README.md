@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm youssef mohammed esmail</h1>
-<h3 align="center">A passionate ios developer from Egypt</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefes&label=Profile%20views&color=0e75b6&style=flat" alt="youssefes" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssefes" alt="youssefes" /></a> </p>
 
 - 🔭 I’m currently working on [pomac](https://pomac.info/)
 
