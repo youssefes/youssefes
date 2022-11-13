@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm youssef mohammed</h1>
+<h1 align="center">Hi 👋, I'm Youssef Mohammed</h1>
 
 - 🔭 I’m currently working on [pomac](https://pomac.info/)
 
